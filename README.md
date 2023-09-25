@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Ellie2o6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Ellie2o6/Ellie2o6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi, I'm Dan <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://giphy.com/gifs/nyre-transparent-Qs1EbHPzBtBvRdECyg/tile)" width="25px">  🌱
+
+- 🔭 I'm passionate about Data Science, Machine Learning, AI & Blockchain
+- 🥅 2021 Goals: Working on more DS Projects
+- 📫 How to reach me: @quan.ngha
+- ⚡ Fun fact: I live in New Zealand but I'm VNese😅
+- 📫 How to reach me: https://www.facebook.com/tdan2oo6/   
